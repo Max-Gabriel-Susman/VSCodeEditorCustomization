@@ -1,0 +1,33 @@
+{
+	"editor.tokenColorCustomizations": {
+	        "textMateRules": [
+       		{
+               		"scope": [
+                       		"keyword.operator",
+        	       		],
+        	        "settings": {
+	                	"foreground": "#FC5FA3",
+        	        },
+        	},
+		{
+                        "scope": [
+                                "keyword",
+                                ],
+                        "settings": {
+                                "foreground": "#FC5FA3",
+                        },
+                },
+		{
+                        "scope": [
+                                "keyword.accessibility",
+                                ],
+                        "settings": {
+                                "foreground": "#FC5FA3",
+                        },
+                },
+       		],
+        },
+		"workbench.colorCustomizations": { 
+		"editor.foreground": "#FFFFFF" 
+	}	
+}
